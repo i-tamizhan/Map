@@ -1,4 +1,3 @@
-package com.iteck.trader.localbusiness.model;
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.Color;
