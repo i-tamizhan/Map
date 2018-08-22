@@ -14,7 +14,6 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.iteck.trader.localbusiness.R;
 
 import org.osmdroid.api.IMapController;
 import org.osmdroid.config.Configuration;
